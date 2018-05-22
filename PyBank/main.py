@@ -4,8 +4,8 @@
 import os
 import csv
 
-csvpath= os.path.join('..','test','budget_data_1.csv')
-csvpath2= os.path.join('..','test','budget_data_2.csv')
+csvpath= os.path.join('budget_data_1.csv')
+csvpath2= os.path.join('budget_data_2.csv')
 
 
 # Lists to store data
